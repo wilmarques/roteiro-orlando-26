@@ -2,21 +2,44 @@
 
 ## Requisitos
 
-- Estacionamento próprio
-- Distância em km do parque mais próximo
-- Região onde está localizado
-- Tipo da região (ex: turística, residencial, comercial)
-- Nota no Google
-- Comentários relevantes no Google
-- Comentários relevantes no Tripadvisor
-- Comentários relevantes no Reddit
-- Pontos de atenção (ex: café da manhã, limpeza, atendimento, estrutura)
+- Endereço completo: Rua, Número, Bairro, Cidade, Estado, CEP
+- Distância em km do parque mais próximo: km
+- Região onde está localizado: Nome da região
+- Tipo da região: Turística/Residencial/Comercial
+- Estacionamento próprio: Sim/Não
+- Nota no Google: 1-5
+- Nota no Tripadvisor: 1-5
+- Commentários relevantes
+  - Google: 5 características principais
+  - Tripadvisor: 5 características principais
+  - Reddit: 5 características principais
+
+Fontes:
+
+- [Fonte 1](link direto para a fonte ser consultada)
+- [Fonte 2](link direto para a fonte ser consultada)
 
 ## A avaliar
 
 ### Polynesian Isles Phase 1, a Hilton Vacation Club #5095
 
 - Poder de intercâmbio: 4-9
+- Endereço completo: Rua, Número, Bairro, Cidade, Estado, CEP
+- Distância em km do parque mais próximo: km
+- Região onde está localizado: Nome da região
+- Tipo da região: Turística/Residencial/Comercial
+- Estacionamento próprio: Sim/Não
+- Nota no Google:
+- Nota no Tripadvisor:
+- Comentários relevantes
+  - Google:
+  - Tripadvisor:
+  - Reddit:
+
+Fontes:
+
+- [Fonte 1](link direto para a fonte ser consultada)
+- [Fonte 2](link direto para a fonte ser consultada)
 
 ### Polynesian Isles Phase 4, a Hilton Vacation Club #D636
 
